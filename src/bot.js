@@ -1,8 +1,9 @@
 //require('dotenv').config( '../.env');
 var game_status = false;
 
-const DISCORDJS_BOT_TOKEN =
-  "ODEwMzIwNzI2NDM5MzYyNTgy.YCh7_A.gsL9YaEWiqBQpm01lYFqYn-i-pk";
+//PLACE BOT TOKEN HERE
+const DISCORDJS_BOT_TOKEN = "";
+
 const PREFIX = "ms.";
 const { Client } = require("discord.js");
 
